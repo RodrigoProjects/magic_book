@@ -1,2 +1,2 @@
 # magic_book
-My bash scripts that my terminal wand uses
+Bash scripts my terminal wand uses :notebook_with_decorative_cover:
