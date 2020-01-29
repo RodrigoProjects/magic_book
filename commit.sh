@@ -18,5 +18,3 @@ else
         printf "Ficheiros estão atualizados.\n(Nothing to commit)\n"
     fi
 fi
-
-#Cool comment
