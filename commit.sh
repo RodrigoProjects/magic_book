@@ -1,7 +1,6 @@
 #!/bin/bash
 
 now="$(date +'%F %R')"
-echo $now
 
 if [ -z "$1" ]
 then 
