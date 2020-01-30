@@ -1,7 +1,5 @@
 #!/bin/bash
 
-ret_val=$?
-
 if [ ! $1 == "" ] && [ ! $2 == "" ]
 then
     cp $1 $2
